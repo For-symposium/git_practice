@@ -1,2 +1,3 @@
+ssh
 git_window
 git_mac
